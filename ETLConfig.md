@@ -2,3 +2,4 @@ ETLSetup
 InstallationSteps
 ETLProcesses
 ETLWorkflow
+ConfigSettings
