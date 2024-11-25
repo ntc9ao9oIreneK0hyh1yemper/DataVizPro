@@ -3,3 +3,4 @@ PipelineStructure
 DataTransforms
 DependenciesList
 PipelineExamples
+ContributionGuide

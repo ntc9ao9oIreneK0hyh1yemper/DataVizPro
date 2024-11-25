@@ -3,3 +3,4 @@ InstallationSteps
 ETLProcesses
 ETLWorkflow
 ConfigSettings
+CommunityRules
