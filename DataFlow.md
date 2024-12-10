@@ -4,3 +4,4 @@ DataTransforms
 DependenciesList
 PipelineExamples
 ContributionGuide
+ErrorHandling
