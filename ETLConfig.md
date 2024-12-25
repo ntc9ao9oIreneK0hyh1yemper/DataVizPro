@@ -4,3 +4,4 @@ ETLProcesses
 ETLWorkflow
 ConfigSettings
 CommunityRules
+LicenseDetails

@@ -5,3 +5,4 @@ DependenciesList
 PipelineExamples
 ContributionGuide
 ErrorHandling
+LegalNotes
