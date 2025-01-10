@@ -5,3 +5,4 @@ ETLWorkflow
 ConfigSettings
 CommunityRules
 LicenseDetails
+DataPipelineFAQ
