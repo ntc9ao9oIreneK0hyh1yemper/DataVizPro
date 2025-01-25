@@ -6,3 +6,4 @@ PipelineExamples
 ContributionGuide
 ErrorHandling
 LegalNotes
+Changelog
