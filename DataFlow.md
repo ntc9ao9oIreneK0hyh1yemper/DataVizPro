@@ -7,3 +7,4 @@ ContributionGuide
 ErrorHandling
 LegalNotes
 Changelog
+TestingInstructions
