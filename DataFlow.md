@@ -8,3 +8,4 @@ ErrorHandling
 LegalNotes
 Changelog
 TestingInstructions
+PipelineMetrics
