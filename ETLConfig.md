@@ -8,3 +8,4 @@ LicenseDetails
 DataPipelineFAQ
 PipelineUpdates
 ETLOptimization
+CommunityResources
